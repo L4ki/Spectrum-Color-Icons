@@ -4,7 +4,7 @@ Spectrum Color Icons (Follows color scheme)
 Spectrum-Color-Dark-Icons
 ------------------------------
 
-Download: 
+Download: https://www.pling.com/p/2055334/
 -------------------------------------------
 
 
