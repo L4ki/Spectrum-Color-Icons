@@ -1,3 +1,5 @@
+
+
 # Spectrum-Color-Icons
 Spectrum Color Icons (Follows color scheme)
 
@@ -36,3 +38,9 @@ Screenshots "Spectrum-Color-Dark-Icons":
 ![Screenshot_20230623_120755](https://github.com/L4ki/Spectrum-Color-Icons/assets/45247573/5c0dfaa3-496b-400c-9145-dbefd2651bdb)
 
 ![Screenshot_20230623_121705](https://github.com/L4ki/Spectrum-Color-Icons/assets/45247573/080180fb-0fe9-48ab-80f5-ee76df11cbd3)
+
+
+Chengelog: 30.06.2023.
+----------------------
+
+Added new icons: actions (symbolic)
