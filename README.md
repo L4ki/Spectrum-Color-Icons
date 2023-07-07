@@ -44,3 +44,8 @@ Chengelog: 30.06.2023.
 ----------------------
 
 Added new icons: actions (symbolic)
+
+Chengelog: 07.07.2023.
+----------------------
+
+Added new icons: 32, 48
