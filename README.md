@@ -148,3 +148,8 @@ Chengelog: 18.11.2023.
 
 Added new icons: 32, 48
 
+Chengelog: 25.11.2023.
+----------------------
+
+Added new icons: 32, 48
+
