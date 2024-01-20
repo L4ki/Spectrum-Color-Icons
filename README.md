@@ -182,3 +182,9 @@ Chengelog: 11.01.2024.
 ----------------------
 
 Added new icons: apps 48
+
+Chengelog: 20.01.2024.
+----------------------
+
+Added new icons: apps 48
+
