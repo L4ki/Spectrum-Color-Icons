@@ -42,8 +42,7 @@ Screenshots "Spectrum-Color-Dark-Icons":
 _____________________________________________________________________________________________________________________________
 
 
-Chengelog: 20.09.2024.
+Chengelog: 27.09.2024.
 ----------------------
 
-Added new icons: apps 48
-
+Added new icons: actions
