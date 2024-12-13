@@ -42,7 +42,7 @@ Screenshots "Spectrum-Color-Dark-Icons":
 _____________________________________________________________________________________________________________________________
 
 
-Chengelog: 06.12.2024.
+Chengelog: 13.12.2024.
 ----------------------
 
-Update: icon-theme.cache
+Added new icons: apps 48
